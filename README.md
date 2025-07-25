@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
+
+
+
 ![First Repo](https://img.shields.io/badge/📁%201st%20Repo-active-blue)
-
-
-![First PR](https://img.shields.io/badge/🎉%201st%20PR-achieved-green)
